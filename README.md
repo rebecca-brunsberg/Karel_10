@@ -13,6 +13,7 @@ Instructions:
 * Read the specification at the bottom of One-34.  Complete the specified tasks in Lab10.java
 * Challenge 1 - can you create a new map that your solution can NOT solve?
 * Challenge 2 (Optional) - perform the Extension activity 
+* Answer the exercises on page One-35.
 * Once you have completed the assignment, commit your changes to your computer
 * Push the code from your local computer up to your personal Github account
 * Initiate a "Pull Request" from your completed project.  This will let me know that you are ready for me to evaluate your work.
